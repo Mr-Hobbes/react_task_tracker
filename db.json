@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Def",
+      "day": "Feb 5th",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Not Def",
+      "day": "Dec 11th",
+      "reminder": true
+    },
+    {
+      "text": "Take Test",
+      "day": "Wednesday",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Teszt",
+      "day": "Teszt 213",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
